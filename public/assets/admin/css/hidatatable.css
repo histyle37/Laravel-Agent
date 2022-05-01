@@ -1,0 +1,16 @@
+.hi-datatable .search-item {margin-bottom: 16px;border-bottom: 1px solid #dee2e6;align-items: center;}
+.hi-datatable .search-header {font-weight: bold;font-size: 14px;}
+.hi-datatable .pagination {display: flex;justify-content: center;margin-bottom: 1rem;}
+.hi-datatable .pagination .pagination-wrapper {display: flex;align-items: center;}
+.hi-datatable .pagination .nav-btn {width: 35px;height: 35px;background: #0f78f247;border-radius: 50%;text-align: center;font-size: 14px;line-height: 35px;margin: 0px 5px;transition: all .3s;display: inline-block;color: #000;cursor: pointer;}
+.hi-datatable .current-page-index {border-radius: 0;margin: 0 10px;width: 100px;text-align: center;font-size: 13px;height: 35px!important;margin-bottom: 0!important;}
+.hi-datatable .no-result{padding: 20px;text-align: center;margin-bottom: 16px;}
+.hi-datatable .image {padding: 10px 0;text-align: center;}
+.hi-datatable .image img{min-width:120px;max-height: 150px;}
+.hi-datatable .filter-btn {background: #2d3274;color:white;}
+.hi-datatable .hidatatable-filter-area .filter-text {height: 35px;font-size: 14px;}
+.hi-datatable .hidatatable-filter-area .input-group-append {height: 35px;}
+.hi-datatable .action-btn {background: #2d3274;color: #fff;font-size: 14px;line-height: 30px;padding: 0px 12px;margin: 2px 2px;border-radius: 50px;display: inline-block;width: auto;}
+.hi-datatable .status-widget {padding: 0.5rem 1rem;color: white;border-radius: 2rem;text-align: center;line-height: 1;display: inline-block;}
+.hi-datatable .status-success {background-color: green;}
+.hi-datatable .status-danger {background-color:darkred;}
